@@ -1,5 +1,8 @@
 # lab2web
-Hardi Wirkan 312210492 
+
+Nama  : Hardi Wirkan 
+Nim   : 312210492 
+Kelas : TI.22.A.5
 
 ## Belajar PHP Dasar
 ![Screenshot (292)](https://github.com/Hardi219/Lab2_Web/assets/129932048/9ae86864-e568-4b3c-b524-4b2ef377d426)
