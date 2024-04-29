@@ -1,7 +1,9 @@
 # lab2web
 
-Nama  : Hardi Wirkan 
+Nama  : Hardi Wirkan
+
 Nim   : 312210492 
+
 Kelas : TI.22.A.5
 
 ## Belajar PHP Dasar
